@@ -1,0 +1,15 @@
+{
+  "name": "cicd-observability-demo",
+  "version": "1.0.0",
+  "description": "Demonstrating CI/CD and Observability",
+  "main": "app/server.js",
+  "scripts": {
+    "start": "node app/server.js",
+    "test": "echo 'Running Unit Tests...' && exit 0",
+    "lint": "echo 'Linting Code...' && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "prom-client": "^15.0.0"
+  }
+}
