@@ -1,6 +1,6 @@
 # ♾️ CI/CD & Observability Suite
 
-![Pipeline Status](https://github.com/YOUR_USERNAME_HERE/cicd-ops-suite/actions/workflows/pipeline.yml/badge.svg)
+![Pipeline Status](https://github.com/vtmarkop/cicd-ops-suite/actions/workflows/pipeline.yml/badge.svg)
 
 ## 📋 Project Overview
 This repository demonstrates the **"Integrator"** role in modern Quality Engineering. It connects application code with **Automated CI Pipelines** and **Observability Infrastructure**.
